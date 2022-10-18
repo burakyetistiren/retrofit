@@ -6,7 +6,7 @@ A type-safe HTTP client for Android and Java.
 For more information please see [the website][1].
 
 
-Download
+Download 
 --------
 
 Download [the latest JAR][2] or grab from Maven central at the coordinates `com.squareup.retrofit2:retrofit:2.9.0`.
