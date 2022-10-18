@@ -17,7 +17,7 @@ Retrofit requires at minimum Java 8+ or Android API 21+.
 
 
 R8 / ProGuard
--------------
+------------- 
 
 If you are using R8 the shrinking and obfuscation rules are included automatically.
 
