@@ -1,8 +1,8 @@
 # Gradle
-.gradle
-build
-/reports
-local.properties
+#.gradle
+#build
+#/reports
+#local.properties
 
 # Idea
 .idea
